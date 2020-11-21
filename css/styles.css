@@ -14,15 +14,15 @@ body {
   height: 50px;
 }
 
-.page-header  {
+.page-header {
   margin-top: 4rem;
   font-size: 1.25rem;
   color: #fff;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .gradient {
-  background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+  background: linear-gradient(90deg, #1cb5e0 0%, #000851 100%);
   /* height: 100vh; */
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 .feature ul {
-   list-style: none;
+  list-style: none;
 }
 
 .feature ul li {
@@ -64,4 +64,14 @@ body {
 
 .services {
   color: #fff;
+}
+
+.heart {
+  color: #e25555;
+}
+
+.footer {
+  height: 50px;
+  color: #fff;
+  padding-top: 10px;
 }
